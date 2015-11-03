@@ -9,4 +9,5 @@ For more info about this project: nand2tetris.org
 
 # Directories
 `00`: Nothing special here, just a sample file written in HDL
+
 `01`: Implement a set of logic gates from their truth tables using NAND gates (OR, AND, NOT, XOR, MUX, DMUX...)
